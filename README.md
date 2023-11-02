@@ -1,4 +1,4 @@
-<body style = 'background: white' >
+<body style = "background: white;" >
 <h1 align="center">Hi 👋, I'm Mudassir</h1>
 <h3 align="center">A passionate Back-End Developer</h3>
 
