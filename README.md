@@ -1,3 +1,4 @@
+<body style = 'background: white' >
 <h1 align="center">Hi 👋, I'm Mudassir</h1>
 <h3 align="center">A passionate Back-End Developer</h3>
 
@@ -25,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudassirquraishi&show_icons=true&locale=en" alt="mudassirquraishi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudassirquraishi&" alt="mudassirquraishi" /></p>
+</body>
